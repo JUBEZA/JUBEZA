@@ -21,7 +21,7 @@
  
  📘  Studies:
  - Web Development | LeWagon | Rio de Janeiro
- - Ingeniería Comercial | Universidad del Desarrollo | Santiago de Chile
+ - Bachelor of Science in Business & Administration | Universidad del Desarrollo | Santiago de Chile
  - Musical production | 101 Training | Santiago de chile
  
  🗣  I speak:
