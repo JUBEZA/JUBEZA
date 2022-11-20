@@ -6,7 +6,7 @@
  </div>
  
   <div id="badges" align="center">
-      <a href="https://resume.io/r/uVhKNeyPL">
+      <a href="https://resume.io/app/resumes/24391340">
         <img src="https://img.shields.io/badge/CV-Juan%20Bezanilla-lightgrey" 
              alt="Resume" />
       </a>
