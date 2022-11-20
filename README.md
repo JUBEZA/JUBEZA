@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/CV-Juan%20Bezanilla-lightgrey" 
              alt="Resume" />
       </a>
-      <a href="www.linkedin.com/in/juanbezanilla">
+      <a href="https://www.linkedin.com/in/juan-jos%C3%A9-bezanilla-za%C3%B1artu-7241a7168/?locale=en_US">
         <img src="https://img.shields.io/badge/Linkedin-Juan%20Bezanilla-blue" 
              alt="Linkedin" />
       </a>
