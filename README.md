@@ -20,7 +20,7 @@
  ### About Me :
  
  📘  Studies:
- - Web Developer | LeWagon | Rio de Janeiro
+ - Web Development | LeWagon | Rio de Janeiro
  - Ingeniería Comercial | Universidad del Desarrollo | Santiago de Chile
  - Musical production | 101 Training | Santiago de chile
  
