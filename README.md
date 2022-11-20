@@ -1,5 +1,5 @@
 <div id="header" align="center">
-     <img src="https://media.giphy.com/media/l0K4hO8mVvq8Oygjm/giphy.gif" width="200"/>
+     <img src="https://media.giphy.com/media/T1E5u35uWZDnq/giphy.gif" width="100%"/>
      <h1 align="center">  Hi!, Im Juan 👤. Full Stack Developer </h1> 
      <h3 align="center"> Passionate Web Developer with the ambition to continue learning and improving. Experienced in the sales area, marketing,     administration, teamwork and leadership. Enjoying every step of the learning process.
      </h3>
