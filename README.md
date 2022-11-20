@@ -5,15 +5,14 @@
      </h3>
  </div>
  
-  <div id="badges" align="center>
+  <div id="badges" align="center">
       <a href="https://resume.io/r/uVhKNeyPL">
-        <img src="https://img.shields.io/badge/CV-Juan%20Bezanilla-lightgrey" alt="Resume" />
+        <img src="https://img.shields.io/badge/CV-Juan%20Bezanilla-lightgrey" 
+             alt="Resume" />
       </a>
-  </div>
-  
- <div id="badges" align="center>
       <a href="www.linkedin.com/in/juanbezanilla">
-        <img src="https://img.shields.io/badge/Linkedin-Juan%20Bezanilla-blue" alt="Linkedin" />
+        <img src="https://img.shields.io/badge/Linkedin-Juan%20Bezanilla-blue" 
+             alt="Linkedin" />
       </a>
  </div>
  
