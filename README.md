@@ -21,7 +21,7 @@
  ---
  ### About Me :
  
- 📘  Studies:
+ 📘  Education:
  - Web Development | LeWagon | Rio de Janeiro
  - Bachelor of Science in Business & Administration | Universidad del Desarrollo | Santiago de Chile
  - Music production | 101 Training | Santiago de chile
