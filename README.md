@@ -48,6 +48,14 @@
     
  </div>
  
+ <h3> 🪗 My Music (NUANB): </h3>
+ <div>
+       <a href="https://open.spotify.com/artist/6xPCOvSCy26E0IJ6GtYjaE">
+        <img src="https://play-lh.googleusercontent.com/P2VMEenhpIsubG2oWbvuLGrs0GyyzLiDosGTg8bi8htRXg9Uf0eUtHiUjC28p1jgHzo=w480-h960-rw" 
+             alt="Spotify" widht="40" height="40" />
+      </a>
+ </div>
+ 
  ---
  
  ### My Status:
