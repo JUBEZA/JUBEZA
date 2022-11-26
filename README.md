@@ -38,6 +38,7 @@
  <div align="left">
   <h3> 🔧 Languages and Tools: </h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title= "Ruby-on-rails" alt="Rails" widht="40" height="40"/>&nbsp;
+         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title= "Css" alt="Css" widht="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title= "Ruby" alt="Ruby" widht="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title= "js" alt="js" widht="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title= "Html" alt="Html" widht="40" height="40"/>&nbsp;
