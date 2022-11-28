@@ -21,6 +21,8 @@
  ---
  ### About Me :
  
+ I like to read, practice sports, make music, explore nature...    and also cities!
+ 
  📘  Education:
  - Web Development | LeWagon | Rio de Janeiro
  - Bachelor of Science in Business & Administration | Universidad del Desarrollo | Santiago de Chile
