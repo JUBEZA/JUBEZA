@@ -34,8 +34,8 @@
  - Portuguese
   
   💻  Im currently: 
-          - Working on websites for clients
-          - Learning **React.js**
+ - Working on websites for clients
+ - Learning **React.js**
   
   
   
