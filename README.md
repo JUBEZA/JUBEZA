@@ -48,6 +48,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title= "Bootstrap" alt="Bootstrap" widht="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title= "Figma" alt="Figma" widht="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title= "Trello" alt="Trello" widht="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title= "WordPress" alt="WordPress" widht="40" height="40"/>&nbsp;
     
  </div>
  
