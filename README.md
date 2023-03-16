@@ -33,7 +33,9 @@
  - Spanish
  - Portuguese
   
-  💻  Im currently learning **React.js**
+  💻  Im currently: 
+          - Working on websites for clients
+          - Learning **React.js**
   
   
   
