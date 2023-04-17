@@ -35,7 +35,7 @@
   
   💻  Im currently: 
  - Working on websites for clients
- - Learning **React.js**
+ - Learning **Vue.js**
   
   
   
