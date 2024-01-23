@@ -36,7 +36,7 @@
   
   💻  Im currently: 
  - Working on websites for clients
- - I am now finishing my Master oin **Digital Product Mahagement**
+ - Finishing my Master oin **Digital Product Mahagement**
   
   
   
